@@ -28,6 +28,7 @@ txt_input = StringVar(value='Hotel Management System')
 Display = Entry(Tops,font=('arial',80,'bold'),fg='white',bd=20,bg='blue',justify='right',
                 textvariable=txt_input)
 Display.grid(columnspan=1)
+#Comment
 
 
 
